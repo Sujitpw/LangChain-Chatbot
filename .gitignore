@@ -1,0 +1,6 @@
+.env
+venv/
+chatenv/
+__pycache__/
+*.pyc
+Notebook_Experiments/
